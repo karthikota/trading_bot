@@ -19,5 +19,6 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.01 --price 
 - Error handling
 
 ## Note
+Designed with modular architecture for easy extension to advanced strategies.
 Due to Binance Testnet API access issues, a mock mode is implemented.
 The structure supports real API integration easily.
